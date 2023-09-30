@@ -1,9 +1,11 @@
 <div float="left">
     <img src="cover.jpg" width="250" align="left">
-    <div float="left">
+    <div float="left" style="font-size: 14px">
         <samp>
             <p>
-                phd student in astrophysics / former coder
+                astrophysics phd student
+                <br>
+                former coder
             </p>
             <p>
                 Current rotation:
@@ -15,9 +17,10 @@
                 <br>
                 C++, PHP, SQL, CSS, JS
             </p>
-            <a href="https://astronasko.com/">website</a>
+            <p>
+                <a href="https://astronasko.com/">website</a>
+            </p>
+            <img src='https://hits.sh/github.com/astronasko/astronasko.svg?label=clicks&color=007ec6'></img>
         </samp>
-        <br>
-        <br>
     </div>
 </div>
