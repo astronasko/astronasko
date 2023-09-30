@@ -5,7 +5,7 @@
             <p>
                 astrophysics phd student
                 <br>
-                former coder
+                coder in reserve
             </p>
             <p>
                 Current rotation:
