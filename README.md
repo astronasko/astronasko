@@ -10,12 +10,12 @@
             <p>
                 Current rotation:
                 <br>
-                LaTeX, Python, Wolfram, Go
+                LaTeX, Python
             </p>
             <p>
                 Past rotation:
                 <br>
-                C++, PHP, SQL, CSS, JS
+                C++, PHP, SQL, CSS, JS, Wolfram, Go
             </p>
             <p>
                 <a href="https://astronasko.com/">website</a>
